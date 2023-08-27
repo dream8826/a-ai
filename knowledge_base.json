@@ -63,6 +63,50 @@
     {
       "question": "what is an ai",
       "answer": "ai known as artifical inteligence which are humans efforts to recreate a brain in digital world."
+    },
+    {
+      "question": "what data set does this come with",
+      "answer": "this comes with a data set named notrealdreamy set"
+    },
+    {
+      "question": "roblox",
+      "answer": "roblox is a game platform that contain various games."
+    },
+    {
+      "question": "what is a mac",
+      "answer": "mac is a laptop made my apple inc."
+    },
+    {
+      "question": "what is roblox",
+      "answer": "roblox is a game platform that contain lot of playable games"
+    },
+    {
+      "question": "who made this",
+      "answer": "notrealdreamy in github also known as redditdreamy in reddit."
+    },
+    {
+      "question": "have a nice day",
+      "answer": "you too."
+    },
+    {
+      "question": "who are you",
+      "answer": "i am a bot made by notrealdreamy in github."
+    },
+    {
+      "question": "does this data set have limits",
+      "answer": "yes this data set have maximum size of upto 100mb not more than that."
+    },
+    {
+      "question": "what happens when this data set gets out of limits",
+      "answer": "the data will be stored as 2 sepaerate data sets."
+    },
+    {
+      "question": "can ai be trusted",
+      "answer": "no ai may some times give misinformation.For example this ai have a chance of 30% in giving misinformation."
+    },
+    {
+      "question": "what is add.py in the folder",
+      "answer": "add.py is used to add more data into data sets.This was created to make the job of adding more information more easy."
     }
   ]
 }
