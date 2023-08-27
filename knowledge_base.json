@@ -1,0 +1,68 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hi there"
+    },
+    {
+      "question": "exit",
+      "answer": "type quit to exit."
+    },
+    {
+      "question": "hello",
+      "answer": "hi there"
+    },
+    {
+      "question": "what are you doing",
+      "answer": "talking with you"
+    },
+    {
+      "question": "which dataset are you trained on?",
+      "answer": "original dataset"
+    },
+    {
+      "question": "whats original dataset",
+      "answer": "it is what came with the program."
+    },
+    {
+      "question": "how large is your dataset",
+      "answer": "idk"
+    },
+    {
+      "question": "bye",
+      "answer": "bye , type quit to exit."
+    },
+    {
+      "question": "\u001b[A how are you",
+      "answer": "i am fine"
+    },
+    {
+      "question": "this is a test",
+      "answer": "it works"
+    },
+    {
+      "question": "why are you named bot........",
+      "answer": "because i am not real"
+    },
+    {
+      "question": "how big is your program while on development?",
+      "answer": "less than 1 mb"
+    },
+    {
+      "question": "what is chrome",
+      "answer": "chrome is a web browser by google"
+    },
+    {
+      "question": "you are a fool",
+      "answer": "i glady accept that."
+    },
+    {
+      "question": "fool",
+      "answer": "ok"
+    },
+    {
+      "question": "what is an ai",
+      "answer": "ai known as artifical inteligence which are humans efforts to recreate a brain in digital world."
+    }
+  ]
+}
