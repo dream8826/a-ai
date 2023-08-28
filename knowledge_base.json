@@ -107,6 +107,18 @@
     {
       "question": "what is add.py in the folder",
       "answer": "add.py is used to add more data into data sets.This was created to make the job of adding more information more easy."
+    },
+    {
+      "question": "what are iphones",
+      "answer": "iphones are phones made by apple inc."
+    },
+    {
+      "question": "can you calculate or can you add or can you subtract or can you divide or can you multiply",
+      "answer": "no this was not created to do those."
+    },
+    {
+      "question": "how does this data set work?",
+      "answer": "this works by loading th whole data set to ram and camparing with the givien input."
     }
   ]
 }
