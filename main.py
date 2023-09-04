@@ -1,5 +1,6 @@
 import json
 from difflib import get_close_matches
+from typing import Optional
 
 
 # Load the knowledge base from a JSON file
@@ -28,7 +29,7 @@ def save_knowledge_base(file_path: str, data: dict):
 
 
 # Find the closest matching question
-def find_best_match(user_question: str, questions: list[str]) -> str | None:
+def find_best_match(user_question: str, questions: list[str]) -> Optional[str]:
     """
     Find the closest matching question in the knowledge base.
 
